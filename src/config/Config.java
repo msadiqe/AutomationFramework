@@ -22,6 +22,8 @@ public class Config {
 		}
 	}
 	
+public static void changes(){
+}
 	
 	public String getProperty(String key){
 		return props.getProperty(key);
